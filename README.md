@@ -99,16 +99,6 @@ python main.py
 
 ---
 
-## Screenshots
-
-> *Add gameplay screenshots here after running your first match!*
->
-> | Start Menu | Compound Firefight | Winner Winner Chicken Dinner |
-> | :---: | :---: | :---: |
-> | `docs/menu.png` | `docs/combat.png` | `docs/victory.png` |
-
----
-
 ## Roadmap
 
 - [ ] Throwables: Frag Grenades and Smoke Grenades with area-of-effect physics
