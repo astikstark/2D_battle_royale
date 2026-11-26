@@ -1,0 +1,3 @@
+# BGMI-Inspired 2D Top-Down Battle Royale
+# Only pygame (or pygame-ce) is required; no external image, font, or audio assets needed.
+pygame>=2.5.0
